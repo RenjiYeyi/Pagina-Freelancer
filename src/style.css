@@ -274,3 +274,11 @@ justify-content: flex-end;
 .footer{
   text-align: center;
 }
+
+.footer .gitHub{
+  color: var(--secundario);
+  text-decoration: none;
+}
+.footer .gitHub:hover{
+  color: var(--primario);
+}
